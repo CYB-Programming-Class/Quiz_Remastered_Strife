@@ -31,8 +31,8 @@ Hard_Questions = [
 Impossible_Questions = [
     "Take a look inside\nI've got nothing to hide\nOh no\nI'll beat around the bush\nI've got nothing but time\nOh no o"
     "h no\nEnter the name of the song: \n\n",
-    "Nobody can save me now\nThe king is crowned\nIt's do or die\nNobody can save me now\nEnter the name of the song: "
-    "\n\n",
+    "When the night, has come\nAnd the land is dark\nThe moon, is the only light we see\nNo I won't. No I won't\nI won'"
+    "t be afraid\nJust as long as you ____, ____ __ __\nFill in the Blanks(Separate each answer with commas): \n\n",
     "______ seems to be the worst of all my friends\nShe brings in all the darkness when the year, it just begins\nBut "
     "oh it seems so cold at the strangest of times\nLoneliness, it seems to be the worst of all her crimes\nAnd I'm alr"
     "ight\nIt's alright\nFill in the blank: \n\n",
@@ -57,7 +57,7 @@ h_questions = [
 ]
 i_questions = [
     Question(Impossible_Questions[0], "leave me"),
-    Question(Impossible_Questions[1], "battle cry"),
+    Question(Impossible_Questions[1], "stand,stand,by,me"),
     Question(Impossible_Questions[2], "february"),
     Question(Impossible_Questions[3], "be,dancing,in,the,dark"),
     Question(Impossible_Questions[4], "sins"),
