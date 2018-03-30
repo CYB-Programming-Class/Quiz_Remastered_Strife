@@ -145,7 +145,7 @@ def run_test3(questions):
         answer = input(question.prompt)
         if answer == question.answer:
             score += 1
-    print("You Got " + str(score) + "/" + str(len(questions)) + " correct on the hard quiz!")
+    print("You Got " + str(score) + "/" + str(len(questions)) + " correct on the impossible quiz!")
     if score == 0:
         print("This is a joke right? No one could possibly be THIS bad.")
     if score == 1:
